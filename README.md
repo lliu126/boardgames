@@ -1,9 +1,7 @@
 # Taking Board Games Seriously
+(Leon Liu & Andrew Charlton - CIS3120 Group Project December 20th, 2018)
 
 Abstract:
-Taking Board Games Seriously
-Andrew Charlton & Leon Liu CIS3120 Group Project December 20th, 2018
-
 We selected a website that ranks board games by the website’s Geek Members Rating, Average Ratings, and number of Voters that participated each game. Given the fact the ratings are neck to neck, such as the Geek Ratings are compared against by the 100th of decimal ratings. We want to test how reliable the ranking system by plotting the Geek Ratings against Avg Ratings and providing analysis with the founding standard deviation results. Conclusion shows us the Voter contribution is a main driving factor for reliability. Our PY Plot example also shows Avg Ratings as more lenient, giving higher ratings versus Geek Ratings’s higher standard ratings. The statistics from overall Standard Deviation shows us, the most votes deserve more standing in their ranks meanwhile lesser votes are not as reliable because it has lesser data(voters) to work with.
 
 Data:
