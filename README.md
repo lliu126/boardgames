@@ -1,5 +1,5 @@
 # Taking Board Games Seriously
-Programming for Analytics course project
+Course Project for Programming for Analytics at Baruch College.
 
 The purpose of this project is to showcase an example of web scrapping using Python and output visiualizing results
 
